@@ -4,8 +4,8 @@
     "data": [
         {
 			"packageName": "com.txkj.drawingapp",
-            "vstr": "1.61.10", 
-            "vint": 16110, 
+            "vstr": "2.61.10", 
+            "vint": 26110, 
             "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.10/DrawingApp_v1.61.10.apk", 
             "status": 1, 
             "note": "", 
@@ -13,8 +13,8 @@
         },
 		{
 			"packageName": "com.txkj.readingapp",
-            "vstr": "1.61.10", 
-            "vint": 16110, 
+            "vstr": "2.61.10", 
+            "vint": 26110, 
             "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.10/ReadingApp_v1.61.10.apk", 
             "status": 1, 
             "note": "", 
@@ -22,8 +22,8 @@
         },
 		{
 			"packageName": "com.txkj.contentbrowser2",
-            "vstr": "1.61.10", 
-            "vint": 16110, 
+            "vstr": "2.61.10", 
+            "vint": 26110, 
             "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.10/FileManager_v1.61.10.apk", 
             "status": 1, 
             "note": "", 

@@ -4,27 +4,27 @@
     "data": [
         {
 			"packageName": "com.txkj.drawingapp",
-            "vstr": "1.61.14", 
-            "vint": 16114, 
-            "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.14/DrawingApp_v1.61.14.apk", 
+            "vstr": "1.61.15", 
+            "vint": 16115, 
+            "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.15/DrawingApp_v1.61.15.apk", 
             "status": 1, 
             "note": "", 
             "pathPage": ""
         },
 		{
 			"packageName": "com.txkj.readingapp",
-            "vstr": "1.61.14", 
-            "vint": 16114, 
-            "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.14/ReadingApp_v1.61.14.apk", 
+            "vstr": "1.61.15", 
+            "vint": 16115, 
+            "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.15/ReadingApp_v1.61.15.apk", 
             "status": 1, 
             "note": "", 
             "pathPage": ""
         },
 		{
 			"packageName": "com.txkj.contentbrowser2",
-            "vstr": "1.61.14", 
-            "vint": 16114, 
-            "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.14/FileManager_v1.61.14.apk", 
+            "vstr": "1.61.15", 
+            "vint": 16115, 
+            "path": "https://github.com/Eazeye-Technology/txkjnote2/releases/download/v1.61.15/FileManager_v1.61.15.apk", 
             "status": 1, 
             "note": "", 
             "pathPage": ""
